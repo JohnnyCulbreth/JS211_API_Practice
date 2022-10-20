@@ -1,0 +1,13 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    color: black;
+}
+
+.header {
+    margin: auto;
+}
+
+.logo {
+    width: 30vw;
+}
